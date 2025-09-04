@@ -4,7 +4,8 @@ Bu repo, **29 Ağustos – 4 Eylül 2025** tarihleri arasında kendi günlük ru
 Hedefim hem **alışkanlıklarımı daha iyi anlamak** hem de **veri analizi becerilerimi geliştirmekti**.  
 
 ## İçerik
-- **GÜNLÜK_RUTİNLERİM.ipynb** → Tüm analiz sürecini içeren Jupyter Notebook  
+- **GÜNLÜK_RUTİNLERİM.ipynb**
+- Tüm analiz sürecini içeren Jupyter Notebook  
   - Tanımlayıcı istatistikler  
   - “En” değerlerin analizi (en uzun uyku, en çok kitap…)  
   - Görselleştirmeler (uyku trendi, ruh hali dağılımı, uyku ↔ motivasyon, kitap ↔ ruh hali)  
